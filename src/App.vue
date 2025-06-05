@@ -1,7 +1,7 @@
 <template>
-  <h1>wegwegwegwe</h1>
+  <TinyMCEEditor />
 </template>
 
 <script setup lang="ts">
-
+import TinyMCEEditor from './components/TinyMCEEditor.vue';
 </script>
